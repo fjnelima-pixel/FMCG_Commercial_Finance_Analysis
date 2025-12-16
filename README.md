@@ -20,5 +20,5 @@ Analyse sales performance, gross margins, and trade spend across products, custo
 ## View Notebook
 [Open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/fmcg-commercial-finance-analysis/blob/main/FMCG_Commercial_Finance_Analysis.ipynb)
 
-## By Faith N. Weyombo
-## Financial and Data Analyst
+# By Faith N. Weyombo
+# Financial and Data Analyst
