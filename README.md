@@ -20,6 +20,19 @@ Analyze sales performance, gross margins and trade spend across products, custom
 ## View Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/fmcg-commercial-finance-analysis/blob/main/FMCG_Commercial_Finance_Analysis.ipynb)
 
+## Key Commercial Insights
+-Net Sales growth is driven primarily by the Spreads category.
+-Trade Spend intensity is higher in Modern Trade customers, impacting margins.
+-Blue Band shows strong volume growth but declining margin efficiency.
+-General Trade delivers better margins with lower promotional intensity.
 
-# By Faith N. Weyombo
-# Financial and Data Analyst
+## Risks
+-Trade spend exceeding sustainable levels for key accounts.
+-Margin dilution risk if promotional activity is not optimized.
+
+## Recommendations
+-Review trade terms for high-spend customers.
+-Focus volume growth on higher-margin channels.
+-Improve trade spend ROI tracking.
+
+ By Faith N. Weyombo -Financial and Data Analyst
