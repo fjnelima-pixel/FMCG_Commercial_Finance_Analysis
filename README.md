@@ -3,7 +3,7 @@
 This project simulates a Commercial Finance Analyst role in an FMCG environment.
 
 ## Objective
-Analyse sales performance, gross margins, and trade spend across products, customers, and channels to generate actionable commercial insights.
+Analyze sales performance, gross margins and trade spend across products, customers and channels to generate actionable commercial insights.
 
 ## Key Skills Demonstrated
 - Financial Planning & Analysis (FP&A)
@@ -18,7 +18,8 @@ Analyse sales performance, gross margins, and trade spend across products, custo
 - GitHub
 
 ## View Notebook
-[Open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/fmcg-commercial-finance-analysis/blob/main/FMCG_Commercial_Finance_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fjnelima-pixel/fmcg-commercial-finance-analysis/blob/main/FMCG_Commercial_Finance_Analysis.ipynb)
+
 
 # By Faith N. Weyombo
 # Financial and Data Analyst
